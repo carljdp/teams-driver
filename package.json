@@ -1,0 +1,17 @@
+{
+  "name": "teams-driver",
+  "version": "1.0.0",
+  "description": "Interface with Microsoft Teams using Webdriver.io",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "carljdp@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.1.3"
+  }
+}
